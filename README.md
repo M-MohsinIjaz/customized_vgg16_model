@@ -13,7 +13,7 @@ This repository contains an implementation of a VGG16 based customized CNN model
 
 ## Dataset
 
-The implementation uses the MNIST dataset. Images and their corresponding labels are provided in CSV files and directories.
+The implementation uses the MNIST dataset. Images and their corresponding labels are provided in CSV files and directories. Dataset can downloaded from [mnist_dataset](https://drive.google.com/file/d/1pQBRL4NhqWfxouBDxRvb2B8S2j3Thee3/view?usp=sharing) 
 
 ### Dataset Structure
 - `train.csv` and `test.csv`: CSV files containing image filenames and their labels.
@@ -32,7 +32,7 @@ The implementation uses the MNIST dataset. Images and their corresponding labels
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/cnn-implementation.git
+   git clone https://github.com/M-MohsinIjaz/customized_vgg16_model.git
    cd cnn-implementation
    ```
 2. Install dependencies:
